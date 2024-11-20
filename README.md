@@ -24,3 +24,13 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
+
+<h3 align="left">Certificates:</h3>
+
+- [Complete Flutter & Dart Development Course](https://www.udemy.com/certificate/UC-c5d0ffcc-ae78-44e3-937e-c6b92c70b583/)
+- [ Flutter Advanced Course Bloc and MVVM Pattern ](https://www.udemy.com/certificate/UC-681ca7e8-5a9d-41c0-9256-3a9565ce9a7d/)
+- [ Mastering Flutter: Responsive & Adaptive UI Design ](https://www.udemy.com/certificate/UC-cf03313f-1615-41c6-b405-91d7391393ae/)
+- [ Flutter Payment Integration: Stripe, PayPal & More! ](https://www.udemy.com/certificate/UC-c90e7c4e-5459-4374-8d92-aebc25042b40/)
+- [Master Git & GitHub: Essential Skills for Developers](https://www.udemy.com/certificate/UC-cb336f28-c62f-478b-9950-12a95b132c03/)
+- [Flutter Internship in ITI for one month](https://drive.google.com/file/d/1huSHxOcS5Qgl8YbnsFmIRME-Ux9VZnYs/view?usp=sharing)
+  
