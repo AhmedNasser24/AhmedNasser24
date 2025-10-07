@@ -5,8 +5,6 @@
 
 - 🏫 I graduated from the [Faculty of Engineering](https://suez.edu.eg/ar/%D9%83%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D9%87%D9%86%D8%AF%D8%B3%D8%A9/) at [Suez Canal University](https://suez.edu.eg/ar/).
 
-- 👨‍💻 You can visit my [Website](https://ahmed-nasser-portfolio.netlify.app)
-
 - 📄 This is my [resume](https://drive.google.com/file/d/1yYXMHQ8XOICixDmkOx82OcQm4rr3XF_g/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
