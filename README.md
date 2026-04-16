@@ -18,6 +18,16 @@
 
 ---
 
+### 🌟 Top Projects
+
+| Project | Description | Links |
+| :--- | :--- | :--- |
+| **Almansour Library App** | A full-featured mobile application for browsing and purchasing books, featuring Arabic localization and RTL support. | [📲 Download APK](https://github.com/AhmedNasser24/My_Projects_Portofolio/releases/latest/download/almansour_app.apk) |
+| **Almansour Admin Dashboard** | A comprehensive management panel for the Almansour Library system to manage inventory, users, and orders. | [🌐 Live Demo](https://almansour-admin.vercel.app/#/login) |
+*(Note: Click the project name or the provided link to view the project.)*
+
+---
+
 ### 🛠 Skills & Expertise
 
 | Category | Skills |
@@ -25,7 +35,7 @@
 | **Development** | Flutter, Dart, C++, OOP, Clean Code, Clean Architecture |
 | **AI & Workflow** | **AI Agent Integration**, **Antigravity IDE**, Prompt Engineering |
 | **Architecture** | MVVM Pattern, Cubit (State Management) |
-| **Backend** | Firebase, Supabase, API Integration, Google Maps APIs ,Socker IO |
+| **Backend** | Firebase, Supabase, API Integration, Google Maps APIs |
 | **UI/UX** | Responsive & Adaptive Design, Arabic RTL Support |
 | **Integrations** | Payment Gateways (Stripe, PayPal), Socket.io |
 
