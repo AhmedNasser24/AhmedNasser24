@@ -22,8 +22,8 @@
 
 | Project | Description | Links |
 | :--- | :--- | :--- |
-| **Almansour Library App** | A full-featured mobile application for browsing and purchasing books, featuring Arabic localization and RTL support. | [📲 Download APK](https://github.com/AhmedNasser24/My_Projects_Portofolio/releases/latest/download/almansour_app.apk) |
-| **Almansour Admin Dashboard** | A comprehensive management panel for the Almansour Library system to manage inventory, users, and orders. | [🌐 Live Demo](https://almansour-admin.vercel.app/#/login) |
+| **Almansour Library App** | A full-featured mobile application for browsing and purchasing books, featuring Arabic localization and RTL support. |  |
+| **Almansour Admin Dashboard** | A comprehensive management panel for the Almansour Library system to manage inventory, users, and orders. |  |
 *(Note: Click the project name or the provided link to view the project.)*
 
 ---
