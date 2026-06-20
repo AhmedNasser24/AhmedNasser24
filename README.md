@@ -21,26 +21,26 @@
 
 ### 🌟 Top Projects
 
-| Project | Description | Links |
-| :--- | :--- | :--- |
-| **Almansour Library App** | A full-featured mobile application for browsing and purchasing books, featuring Arabic localization and RTL support. |  |
-| **Almansour Admin Dashboard** | A comprehensive management panel for the Almansour Library system to manage inventory, users, and orders. |  |
-*(Note: Click the project name or the provided link to view the project.)*
+| Project                       | Description                                                                                                          | Links |
+| :---------------------------- | :------------------------------------------------------------------------------------------------------------------- | :---- |
+| **Almansour Library App**     | A full-featured mobile application for browsing and purchasing books, featuring Arabic localization and RTL support. |       |
+| **Almansour Admin Dashboard** | A comprehensive management panel for the Almansour Library system to manage inventory, users, and orders.            |       |
+
+_(Note: Click the project name or the provided link to view the project.)_
 
 ---
 
 ### 🛠 Skills & Expertise
 
-| Category | Skills |
-| :--- | :--- |
-| **Development** | Flutter, Dart, JavaScript , Nodejs , Express , Mongo db , C++|
-| **Computer Science Fundamentals** | OOP , Data Structures and Algorithms |
-
-| **AI & Workflow** | **AI Agent Integration**, **Antigravity IDE**, Prompt Engineering |
-| **Architecture** | Clean Architecture , MVVM Pattern, Cubit (State Management) |
-| **Backend** | Node.js, Express, Firebase, Supabase, API Integration, Google Maps APIs |
-| **UI/UX** | Responsive & Adaptive Design, Arabic RTL Support |
-| **Integrations** | Payment Gateways (Stripe, PayPal), Socket.io |
+| Category                          | Skills                                                                  |
+| :-------------------------------- | :---------------------------------------------------------------------- |
+| **Development**                   | Flutter, Dart, JavaScript , Nodejs , Express , Mongo db , C++           |
+| **Computer Science Fundamentals** | OOP , Data Structures and Algorithms                                    |
+| **AI & Workflow**                 | **AI Agent Integration**, **Antigravity IDE**, Prompt Engineering       |
+| **Architecture**                  | Clean Architecture , MVVM Pattern, Cubit (State Management)             |
+| **Backend**                       | Node.js, Express, Firebase, Supabase, API Integration, Google Maps APIs |
+| **UI/UX**                         | Responsive & Adaptive Design, Arabic RTL Support                        |
+| **Integrations**                  | Payment Gateways (Stripe, PayPal), Socket.io                            |
 
 ---
 
@@ -54,4 +54,3 @@
 - 🎯 [**Complete Flutter & Dart**](https://www.udemy.com/certificate/UC-c5d0ffcc-ae78-44e3-937e-c6b92c70b583/) - Core Foundations
 
 ---
-
