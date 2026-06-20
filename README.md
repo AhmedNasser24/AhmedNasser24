@@ -1,17 +1,18 @@
 <h1 align="center">Hi 👋, I'm Ahmed Nasser</h1>
-<h3 align="center">A Flutter Developer specializing in AI-Powered Workflows</h3>
+<h3 align="center">A Flutter & Node.js Developer specializing in AI-Powered Workflows</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ahmed-nasser-a83a4a257/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:eng.ahmednasser2024@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://wa.me/0201066505898"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ahmed-nasser-a83a4a257/"><img src="assets/linkedin.png" width="40" /></a> &nbsp;&nbsp;
+  <a href="mailto:eng.ahmednasser2024@gmail.com"><img src="assets/gmail.jpeg" width="40" /></a> &nbsp;&nbsp;
+  <a href="https://wa.me/0201066505898"><img src="assets/whatsapp.jpg" width="40" /></a>
 </p>
 
 ---
 
 ### 👨‍💻 Professional Summary
 
-- 🚀 **Flutter Developer** focused on building scalable, high-performance apps using **Clean Architecture**.
+- 🚀 **Mobile Developer:** Focused on building scalable, high-performance Flutter apps using **Clean Architecture**.
+- 💻 **Backend Developer:** Experienced in building robust APIs and backend services using **Node.js** and **Express**.
 - 🤖 **AI-First Workflow:** I leverage **AI Agents** and the **Antigravity IDE** to accelerate development, automate repetitive tasks, and ensure high code quality.
 - 🏫 Graduate of the **Faculty of Engineering** at Suez Canal University.
 - 📄 Explore my [Portfolio Website](https://ahmed-nasser-portfolio.netlify.app) or view my [Resume](https://drive.google.com/file/d/1yYXMHQ8XOICixDmkOx82OcQm4rr3XF_g/view?usp=sharing).
@@ -32,10 +33,12 @@
 
 | Category | Skills |
 | :--- | :--- |
-| **Development** | Flutter, Dart, C++, OOP, Clean Code, Clean Architecture |
+| **Development** | Flutter, Dart, JavaScript , Nodejs , Express , Mongo db , C++|
+| **Computer Science Fundamentals** | OOP , Data Structures and Algorithms |
+
 | **AI & Workflow** | **AI Agent Integration**, **Antigravity IDE**, Prompt Engineering |
-| **Architecture** | MVVM Pattern, Cubit (State Management) |
-| **Backend** | Firebase, Supabase, API Integration, Google Maps APIs |
+| **Architecture** | Clean Architecture , MVVM Pattern, Cubit (State Management) |
+| **Backend** | Node.js, Express, Firebase, Supabase, API Integration, Google Maps APIs |
 | **UI/UX** | Responsive & Adaptive Design, Arabic RTL Support |
 | **Integrations** | Payment Gateways (Stripe, PayPal), Socket.io |
 
@@ -52,6 +55,3 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmedNasser24&show_icons=true&theme=radical" alt="Ahmed's Stats" />
-</p>
