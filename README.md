@@ -2,9 +2,9 @@
 <h3 align="center">A Flutter & Node.js Developer specializing in AI-Powered Workflows</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ahmed-nasser-a83a4a257/"><img src="assets/linkedin.png" width="40" /></a> &nbsp;&nbsp;
-  <a href="mailto:eng.ahmednasser2024@gmail.com"><img src="assets/gmail.jpeg" width="40" /></a> &nbsp;&nbsp;
-  <a href="https://wa.me/0201066505898"><img src="assets/whatsapp.jpg" width="40" /></a>
+  <a href="https://www.linkedin.com/in/ahmed-nasser-ibrahim-a83a4a257/" target="_blank" rel="noopener noreferrer"><img src="assets/linkedin.png" alt="LinkedIn" width="40" height="40" /></a> &nbsp;&nbsp;
+  <a href="mailto:eng.ahmednasser2024@gmail.com"><img src="assets/gmail.jpeg" alt="Gmail" width="40" height="40" /></a> &nbsp;&nbsp;
+  <a href="https://wa.me/0201066505898" target="_blank" rel="noopener noreferrer"><img src="assets/whatsapp.jpg" alt="WhatsApp" width="40" height="40" /></a>
 </p>
 
 ---
@@ -15,7 +15,7 @@
 - 💻 **Backend Developer:** Experienced in building robust APIs and backend services using **Node.js** and **Express**.
 - 🤖 **AI-First Workflow:** I leverage **AI Agents** and the **Antigravity IDE** to accelerate development, automate repetitive tasks, and ensure high code quality.
 - 🏫 Graduate of the **Faculty of Engineering** at Suez Canal University.
-- 📄 Explore my [Portfolio Website](https://ahmed-nasser-portfolio.netlify.app) or view my [Resume](https://drive.google.com/file/d/1yYXMHQ8XOICixDmkOx82OcQm4rr3XF_g/view?usp=sharing).
+- 📄 view my [Resume](https://drive.google.com/file/d/1yYXMHQ8XOICixDmkOx82OcQm4rr3XF_g/view?usp=sharing).
 
 ---
 
