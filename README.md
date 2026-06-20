@@ -32,15 +32,15 @@ _(Note: Click the project name or the provided link to view the project.)_
 
 ### 🛠 Skills & Expertise
 
-| Category                          | Skills                                                                  |
-| :-------------------------------- | :---------------------------------------------------------------------- |
-| **Development**                   | Flutter, Dart, JavaScript , Nodejs , Express , Mongo db , C++           |
-| **Computer Science Fundamentals** | OOP , Data Structures and Algorithms                                    |
-| **AI & Workflow**                 | **AI Agent Integration**, **Antigravity IDE**, Prompt Engineering       |
-| **Architecture**                  | Clean Architecture , MVVM Pattern, Cubit (State Management)             |
-| **Backend**                       | Node.js, Express, Firebase, Supabase, API Integration, Google Maps APIs |
-| **UI/UX**                         | Responsive & Adaptive Design, Arabic RTL Support                        |
-| **Integrations**                  | Payment Gateways (Stripe, PayPal), Socket.io                            |
+| Category | Skills |
+| :--- | :--- |
+| **Development** | Flutter, Dart, JavaScript, Node.js, Express, MongoDB, C++ |
+| **Computer Science Fundamentals** | OOP, Data Structures and Algorithms |
+| **AI & Workflow** | **AI Agent Integration**, **Antigravity IDE**, Prompt Engineering |
+| **Architecture** | Clean Architecture, MVVM Pattern, Cubit (State Management) |
+| **Backend** | Node.js, Express, Firebase, Supabase, API Integration, Google Maps APIs |
+| **UI/UX** | Responsive & Adaptive Design, Arabic RTL Support |
+| **Integrations** | Payment Gateways (Stripe, PayPal), Socket.io |
 
 ---
 
